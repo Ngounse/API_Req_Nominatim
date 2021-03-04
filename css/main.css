@@ -1,0 +1,84 @@
+body{
+      background-color: azure;
+      line-height: 1.5;
+}
+
+.col-1 {
+      margin-left: 0%;
+  }
+  .search {
+      padding: 5px;
+      margin-top: 20px;
+      width:500px;
+ }
+ .searchBtn {
+      background-color: #007bff;
+      border-color:#007bff;
+      color: white;
+      border-radius: 5px;
+      padding: 5px;
+      margin-top: 20px;
+      width:100px;
+ }
+
+ /* .sidebar.svelte-1d53ob0 {
+      width: 25%;
+      min-width: 200px;
+      padding: 15px;
+      padding-top: 0;
+      display: block;
+      float: left;
+  } */
+
+.resultNameCard {
+      font-size: 0.8em;
+      margin: 5px;
+      margin-top: 0px;
+      padding: 4px 8px;
+      border-radius: 2px;
+      background: #F0F7FF;
+      border: 2px solid #D7E7FF;
+      cursor: pointer;
+      min-height: 5em;
+      width:300px;
+  }
+.resultNameBody {
+      margin: 5px;
+      margin-top: 0px;
+      padding: 4px 8px;
+      border-radius: 2px;
+      background: #ffffff;
+      border: 2px solid #92beff;
+      min-height: 5em;
+      width:335px;
+}
+.nameCardType{
+      color: gray;
+ }
+
+/* .resultNameCard.icon{
+      float: right;
+ } */
+ .mapNameCard{
+       /* background-color: white; */
+       margin-left: 400px;
+       margin-top: 10px;
+       /* margin-bottom: 50; */
+       /* padding: 5px; */
+       /* border: 2px solid tomato; */
+       /* width: 100px; */
+       /* min-height: 100px; */
+       /*  */
+      padding: 4px 8px;
+      border-radius: 2px;
+      background: #ffffff;
+      border: 2px solid #92beff;
+      min-height: 5em;
+      width:335px;
+ }
+ .detail{
+      color: gray;
+      text-align: center;
+ }
+
+ 
